@@ -1,0 +1,7 @@
+c:\users\ljj\source\repos\Points\Points\bin\Debug\Points.exe.config
+c:\users\ljj\source\repos\Points\Points\bin\Debug\Points.exe
+c:\users\ljj\source\repos\Points\Points\bin\Debug\Points.pdb
+c:\users\ljj\source\repos\Points\Points\obj\Debug\Points.csprojResolveAssemblyReference.cache
+c:\users\ljj\source\repos\Points\Points\obj\Debug\Points.csproj.CoreCompileInputs.cache
+c:\users\ljj\source\repos\Points\Points\obj\Debug\Points.exe
+c:\users\ljj\source\repos\Points\Points\obj\Debug\Points.pdb
