@@ -1,0 +1,7 @@
+c:\users\ljj\source\repos\Customer_Invoice\Customer_Invoice\bin\Debug\Customer_Invoice.exe.config
+c:\users\ljj\source\repos\Customer_Invoice\Customer_Invoice\bin\Debug\Customer_Invoice.exe
+c:\users\ljj\source\repos\Customer_Invoice\Customer_Invoice\bin\Debug\Customer_Invoice.pdb
+c:\users\ljj\source\repos\Customer_Invoice\Customer_Invoice\obj\Debug\Customer_Invoice.csprojResolveAssemblyReference.cache
+c:\users\ljj\source\repos\Customer_Invoice\Customer_Invoice\obj\Debug\Customer_Invoice.csproj.CoreCompileInputs.cache
+c:\users\ljj\source\repos\Customer_Invoice\Customer_Invoice\obj\Debug\Customer_Invoice.exe
+c:\users\ljj\source\repos\Customer_Invoice\Customer_Invoice\obj\Debug\Customer_Invoice.pdb
