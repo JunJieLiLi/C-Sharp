@@ -1,0 +1,10 @@
+C:\Users\ljj\source\repos\TempAgency\TempAgency\bin\Debug\TempAgency.exe.config
+C:\Users\ljj\source\repos\TempAgency\TempAgency\bin\Debug\TempAgency.exe
+C:\Users\ljj\source\repos\TempAgency\TempAgency\bin\Debug\TempAgency.pdb
+C:\Users\ljj\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.csprojResolveAssemblyReference.cache
+C:\Users\ljj\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.Form1.resources
+C:\Users\ljj\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.Properties.Resources.resources
+C:\Users\ljj\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.csproj.GenerateResource.Cache
+C:\Users\ljj\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.csproj.CoreCompileInputs.cache
+C:\Users\ljj\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.exe
+C:\Users\ljj\source\repos\TempAgency\TempAgency\obj\Debug\TempAgency.pdb
