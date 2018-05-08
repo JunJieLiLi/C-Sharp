@@ -168,6 +168,7 @@ namespace Bakery_Book
         /*shows all data of a recipe*/
         private void button4_Look_Details_Click(object sender, EventArgs e){
             try{
+                button2_Update.Enabled = true;
                 con.Open();
                 listBox_Search();
             }
